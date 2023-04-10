@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lumkring/static/css/main.d50063d5.css",
+    "main.js": "/lumkring/static/js/main.c8374da8.js",
+    "static/media/Produk.jpg": "/lumkring/static/media/Produk.2d013153ceb165f16b09.jpg",
+    "static/media/BillionDreams_PERSONAL.ttf": "/lumkring/static/media/BillionDreams_PERSONAL.c3670514876327a19952.ttf",
+    "index.html": "/lumkring/index.html",
+    "main.d50063d5.css.map": "/lumkring/static/css/main.d50063d5.css.map",
+    "main.c8374da8.js.map": "/lumkring/static/js/main.c8374da8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d50063d5.css",
+    "static/js/main.c8374da8.js"
+  ]
+}
